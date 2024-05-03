@@ -2,6 +2,8 @@
 
 This is intended to be a general-purpose bot for Discord. The idea is to have a blank canvas with a simple module API to easily expand without writing a whole bot, just the fun parts.
 
+## **This is not ready for use! It runs, but doesn't yet do what it's intended to do!**
+
 Written with 3.12 in mind, but requires Python 3.10+ due to interactions.py requirements. See [requirements.txt](requirements.txt) for more information about dependencies.
 
 Bot code based on [interactions.py](https://interactions-py.github.io/interactions.py/).
