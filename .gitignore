@@ -1,0 +1,11 @@
+__pycache__
+.vscode
+venv
+.env
+.python-version
+notes.md
+test*
+*.svg
+*.png
+*.xml
+*.sqlite
